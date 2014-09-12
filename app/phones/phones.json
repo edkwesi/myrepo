@@ -151,5 +151,13 @@
         "imageUrl": "img/phones/motorola-charm-with-motoblur.0.jpg", 
         "name": "Motorola CHARM\u2122 with MOTOBLUR\u2122", 
         "snippet": "Motorola CHARM fits easily in your pocket or palm.  Includes MOTOBLUR service."
+    },
+    {
+        "age": 20, 
+        "id": "htc-one (M8)", 
+        "imageUrl": "img/phones/htc-one-m8-0.jpg", 
+        "name": "HTC One (M8)\u2122", 
+        "snippet": "HTC One (M8)The dual front-facing speakers of HTC BoomSound™ brings music and video to life."
     }
+
 ]
